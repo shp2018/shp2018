@@ -15,5 +15,5 @@
 ## 🔗 **Links** 
 <a href="https://www.linkedin.com/in/sanghyun-park-4786142a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/shp2018" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://www.sanghyunpark.org/" target="_blank"><img src="https://img.shields.io/badge/-Website-%234285F4?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"></a>
+<a href="https://www.sanghyunpark.org/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%234285F4?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-Resume-%23FF5722?style=for-the-badge&logo=google-drive&logoColor=white" target="_blank"></a>
