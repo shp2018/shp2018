@@ -1,6 +1,4 @@
 ## 👋  **Hey! I'm Sanghyun Park** 
-<!-- ![image](images/bg.gif) -->
-![image](images/kevin.png)
-
+![image](images/bg.gif)
 
 ## 📖 **About Me** 
