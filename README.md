@@ -1,3 +1,5 @@
 ![image](images/bg.gif)
 
-## 😀  **About Me** 
+## 👋  **Hey! I'm Sanghyun Park** 
+
+## 📖 **About Me** 
