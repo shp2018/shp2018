@@ -13,7 +13,7 @@
 
 
 ## 🔗 **Links** 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com)
-[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=google-drive&logoColor=white)](https://link-to-your-resume)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&borderRadius=30)](https://www.linkedin.com/in/sanghyun-park-4786142a8/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20&borderRadius=30)](https://github.com/shp2018)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&logoWidth=20&borderRadius=30)](https://www.sanghyunpark.org/)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=google-drive&logoColor=white&logoWidth=20&borderRadius=30)](https://link-to-your-resume)
